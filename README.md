@@ -26,3 +26,6 @@ from .full.notebook1 import foo
 
 # Do a definitions-only import
 from .defs.notebook1 import bar
+
+<img width="838" alt="Screen Shot 2021-11-18 at 15 28 15" src="https://user-images.githubusercontent.com/71470238/142499568-5d2bd244-ce08-4acd-9e93-ec010e5d3189.png">
+<img width="832" alt="Screen Shot 2021-11-18 at 15 28 05" src="https://user-images.githubusercontent.com/71470238/142499574-1d818df1-279f-4fe3-aaf7-945665a9fff5.png">
